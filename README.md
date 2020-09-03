@@ -49,3 +49,4 @@ The notebooks expect that the following files:
 
 Also `AZDIAS_Feature_Summary.csv` is expected to be presented. This file is constructed for this
 project and contains only metadata (the file is provided).
+**For the Kaggle competition the submit.csv file is included in the notebooks folder
