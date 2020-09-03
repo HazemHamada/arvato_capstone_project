@@ -28,7 +28,7 @@ as well as Jupyter Notebooks. The following libraries are expected to be used in
 * imblearn (for resampling imbalanced data)
 * xgboost (for the supervised model)
 * hyperopt (for hyperparameter tuning using Bayesian optimization)
-* utils/functions.py (various utility functions used through the project)
+* functions.py (various utility functions used through the project)
 * other some functions from scikit-learn
 
 ## How the project is organized
